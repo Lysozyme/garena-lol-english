@@ -4,6 +4,8 @@ Unlike non-Garena regions, Garena users can't simply modify a config file to ach
 Since the procedure is a pain and also most info on Google is outdated due to a recent LoL update, here is a simple script for automation.
 
 ### Usage
+[Download](https://github.com/Lysozyme/garena-lol-english/releases)
+
 1. Run the script (or executable) **AS ADMIN**
 2. Run LoL via Garena as you normally would
 3. LoL automatically closes and relaunches in English
