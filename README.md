@@ -19,4 +19,4 @@ Steps 1 and 2 can be in reverse order.
 The following info helped me create this. Thanks!
 - [Changing language on the Garena server](https://www.reddit.com/r/leagueoflegends/comments/e3fga6/changing_language_on_the_garena_server)
 - [shiukaheng/LeagueForceEnglish](https://github.com/shiukaheng/LeagueForceEnglish)
-- [[HOW-TO] Change your LoL Garena Client Language To Japanese/Korean/Any other languages! [SG/MY]](https://www.youtube.com/watch?v=WO3u6cKIiQo&t=17s)
+- [How to change Garena League of Legends Language | WORKING JULY 2020](https://www.youtube.com/watch?v=guR9PP_-Iy0)
